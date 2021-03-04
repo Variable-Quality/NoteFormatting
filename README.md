@@ -12,3 +12,9 @@
 ## How To Run
 
 Simply run "RUNME.bat" and a GUI should open. As of right now you have to open config.ini with a text editor to see what delimiters are able to be removed, but that will be changing! Eventually.
+
+## How To Use
+
+Instead of copy and pasting unicode characters, just put a delimiter where the unicode character should go.
+
+Delimiters are keywords that the program will look for and replace with the appropriate unicode symbol, according to the config.ini. An example will load up every time you run the program which will give you a basic example of how to use it. (I'll eventually make it so you're able to opt out of it being thrown up there every time)
